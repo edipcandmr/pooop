@@ -4,12 +4,12 @@
     "repository": "https://github.com/tingirifistik/Enough",
     "env": {
         "TOKEN": {
-            "description": "Telegram botunun Token'ı",
+            "description": "5644249503:AAHfcmaQlwZch9xGhLErMrS7IUKnFRSS_3s",
             "required": true
         },
         "SAHIP": {
-            "description": "Size SMS gelmemesi için telefon numaranız",
-            "required": false
+            "description": "5424585839",
+            "required": true
         }
     },
     "formation": {
