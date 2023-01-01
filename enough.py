@@ -16,16 +16,10 @@ from sms import SendSms
 while 1:
     system("cls||clear")
     print("""{}
-     ______                         _     
-    |  ____|                       | |    
-    | |__   _ __   ___  _   _  __ _| |__  
-    |  __| | '_ \ / _ \| | | |/ _` | '_ \ 
-    | |____| | | | (_) | |_| | (_| | | | |
-    |______|_| |_|\___/ \__,_|\__, |_| |_|
-                               __/ |      
-                              |___/      
-                            
-                        {}by {}@tingirifistik  
+         ???   ????   ???
+         ??    ?  ?   ???
+         ???   ????   ?        
+                        {}by {}@tegri034  
     """.format(Fore.LIGHTCYAN_EX, Style.RESET_ALL, Fore.LIGHTRED_EX))
     try:
         menu = int(input(Fore.LIGHTMAGENTA_EX + "1. SMS Gönder\n2. Çıkış\n\n" + Fore.LIGHTYELLOW_EX + "Seçim: "))
