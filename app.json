@@ -10,6 +10,10 @@
         "SAHIP": {
             "description": "5424585839",
             "required": true
+        },
+		 "SAHIP2": {
+            "description": "5424585839",
+            "required": true
         }
     },
     "formation": {
